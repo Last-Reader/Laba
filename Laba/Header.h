@@ -1,4 +1,5 @@
-#pragma once#ifndef CONSTANTS_H
+#pragma once
+#ifndef CONSTANTS_H
 #define CONSTANTS_H
 
 // Максимальное количество строк в файле (по условию задачи)
